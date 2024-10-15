@@ -1,1 +1,1 @@
-This contains code for a professor teaching evaluation system app. This app creates a sentiment analysis and several forms of data visualization for feedback data via an excel file. It also has automated feedback responses for different comments made about professors.
+This contains code for a professor teaching evaluation system streamlit app. This app creates a sentiment analysis and several forms of data visualization for feedback data via an excel file. It also has automated feedback responses for different comments made about professors.
